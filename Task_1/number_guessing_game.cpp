@@ -1,4 +1,4 @@
-// Task 1 of C++ Programming Internship with Codsoft 
+// Task 1 of C++ Programming Internship at Codsoft 
 // Number Guessing Game
 
 // Using procedural programming
