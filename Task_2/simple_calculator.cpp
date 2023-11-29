@@ -1,8 +1,8 @@
-// Task 2 of C++ Programming Internship at Codsoft
+//? Task 2 of C++ Programming Internship at Codsoft
 
-// Simple Calculator
+//* Simple Calculator
 
-// Using procedural programming
+//todo: Using procedural programming
 
 #include <iostream>
 using namespace std;
@@ -48,7 +48,7 @@ int main()
 }
 
 
-// Using object oriented programming
+//todo:  Using object oriented programming
 
 #include <iostream>
 using namespace std;

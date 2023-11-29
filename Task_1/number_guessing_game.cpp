@@ -1,7 +1,8 @@
-// Task 1 of C++ Programming Internship at Codsoft 
-// Number Guessing Game
+//? Task 1 of C++ Programming Internship at Codsoft 
 
-// Using procedural programming
+//* Number Guessing Game
+
+//todo:  Using procedural programming
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -42,7 +43,7 @@ int main()
 }
 
 
-// Using object oriented programming
+//todo: Using object oriented programming
 
 #include <iostream>
 #include <cstdlib>
