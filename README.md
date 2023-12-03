@@ -10,8 +10,6 @@ Welcome to the documentation of my internship journey at CodSoft! Below is a sum
 
 ### Task 2: SIMPLE CALCULATOR
 - A basic calculator program implemented in C++ using both procedural and object-oriented programming.
-  
-  ## Features
 - **Procedural Programming:**
   - User input for two numbers and an operator (+, -, *, /).
   - Performs the selected operation using a switch statement.
